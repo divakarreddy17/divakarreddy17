@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divakara K N
 
-🎯 **Data Analyst | Time Series Forecasting | R & Python**  
+🎯 **Statistical Programmer | Time Series Forecasting | R & Python**  
 🔬 Specializing in infectious disease early warning systems  
 📍 Bangalore, India  
 
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a data analyst focused on **time series modeling and forecasting**, with hands-on experience in building **infectious disease prediction systems**.  
+I am a statistical programmer focused on **time series modeling and forecasting**, with hands-on experience in building **infectious disease prediction systems**.  
 I enjoy transforming raw data into actionable insights using statistical and machine learning techniques.
 
 ---
@@ -25,8 +25,6 @@ I enjoy transforming raw data into actionable insights using statistical and mac
 - R
 - Python
 - SQL
-- PHP
-- JavaScript
 
 ### 📈 Visualization
 - ggplot2
