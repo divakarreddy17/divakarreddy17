@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a statistical programmer focused on **time series modeling and forecasting**, with hands-on experience in building **infectious disease prediction systems**.  
+I am a Research Assistant focused on **time series modeling and forecasting**, with hands-on experience in building **infectious disease prediction systems**.  
 I enjoy transforming raw data into actionable insights using statistical and machine learning techniques.
 
 ---
