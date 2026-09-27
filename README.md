@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divakara K N
 
-🎯 **Statistical Programmer | Time Series Forecasting | R & Python**  
+🎯 **Research Assistant | Time Series Forecasting | R & Python**  
 🔬 Specializing in infectious disease early warning systems  
 📍 Bangalore, India  
 
