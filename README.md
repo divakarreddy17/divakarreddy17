@@ -1,121 +1,114 @@
-<!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Divakara%20K%20N&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Statistical%20Programmer%20%C2%B7%20Time%20Series%20Forecasting%20%C2%B7%20Epidemiological%20Surveillance&descSize=15&descAlignY=60" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,50:2a5298,100:1e3c72&height=150&section=header&text=Divakara%20K%20N&fontColor=ffffff&fontSize=42&desc=Statistical%20Programmer%20%7C%20Time%20Series%20%26%20Forecasting%20%7C%20Health%20Analytics&descSize=15&descAlignY=68" width="100%" alt="Header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+early+warning+systems+for+infectious+disease;ARIMA+%7C+ARIMAX+%7C+EWMA+%7C+Changepoint+Detection;R+%26+Python+%7C+Shiny+%7C+Reproducible+pipelines" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Location](https://img.shields.io/badge/📍_Bengaluru,_India-0d1117?style=for-the-badge)
-![Role](https://img.shields.io/badge/🔬_Research_Assistant-0d1117?style=for-the-badge)
-![Open to work](https://img.shields.io/badge/🟢_Open_to_roles-238636?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/divakarreddy17/divakarreddy17/raw/main/Divakara_KN_Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/divakarreddy17/divakara-portfolio)
 
 </div>
 
----
+<!-- ADD: upload your resume PDF to this repo as Divakara_KN_Resume.pdf so the Resume button works -->
 
-## 👋 About me
+## ⚡ At a glance
 
-I'm a **Statistical Programmer & Research Assistant** at the **Tata Institute for Genetics and Society (TIGS)**, where I build forecasting and surveillance tools that turn raw public-health data into early, actionable signals.
-
-- 🦠 Focused on **infectious disease early warning** (dengue, malaria, chikungunya, cholera, COVID-19 and more)
-- 📈 Deep into **time series**: ARIMA/SARIMA/ARIMAX, EWMA control charts, changepoint detection, walk-forward validation
-- 🎓 MSc Statistics (Bangalore University) · BSc Economics, Mathematics & Statistics (Bengaluru City University)
-- 🏏 Off-hours: cricket analytics
-
----
-
-## 🧰 Tech stack
-
-<div align="center">
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-1A162D?style=for-the-badge&logo=rstudioide&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-| Area | What I use |
+| | |
 |---|---|
-| 📊 **Time series** | ARIMA · SARIMA · ARIMAX · EWMA · Changepoint detection · Multi-horizon & walk-forward validation |
-| 🧪 **Modelling** | GLM · GAM · KNN · SVR · Random Forest · XGBoost · Bayesian regression · LSTM |
-| 🧹 **Data prep** | KNN / mean / median / forward-fill imputation · Forecast accuracy metrics (RMSE, MAE, MAPE) |
-| 🎨 **Visualization** | ggplot2 · Plotly · Heatmaps · Forecast diagnostics · Geospatial maps (GeoPandas) |
+| **Currently** | Statistical Programmer & Research Assistant, Tata Institute for Genetics and Society (TIGS) |
+| **Location** | Bengaluru, India (open to relocation / remote) <!-- EDIT if not true --> |
+| **Core skills** | R · Python · SQL · Time Series · Forecasting · Shiny |
+| **Domain** | Infectious disease surveillance · Public health analytics |
+| **Education** | MSc Statistics, Bangalore University (2024) |
+| **Looking for** | Data Analyst · Statistical Programmer · Biostatistics / Health Analytics roles |
 
 ---
 
-## 🚀 Featured work
+## 💡 What I bring
+
+- **I build end-to-end, not just models.** Raw data → cleaning → forecasting → validation → interactive dashboard → early-warning alerts.
+- **Statistical rigour.** Rolling-origin walk-forward validation, RMSE / MAE / MAPE tracking, and code audits that catch silent errors (wrong CI inflation, cumulative-sum metrics, frequency mis-specification).
+- **Production mindset.** Consistent UI patterns, download/export handlers, reproducible R pipelines used on real surveillance data.
+- **Clear communication.** I turn model output into heatmaps and alert tiers (Normal / Early Warning / Red Alert) that non-statisticians can act on.
+
+---
+
+## 💼 Experience
+
+**Statistical Programmer & Research Assistant** · *Tata Institute for Genetics and Society (TIGS)* · <!-- ADD: start date --> – Present
+- Developed **EpiAlertR**, a Shiny-based surveillance and forecasting framework covering dengue, malaria, chikungunya, cholera, chickenpox and COVID-19
+- Implemented ARIMA / SARIMA / ARIMAX, EWMA control charts and changepoint detection with standardized walk-forward validation
+- Built wastewater surveillance analysis and geospatial (ward-level) mapping in Python
+- <!-- ADD: one quantified result, e.g. "reduced forecast RMSE by X%" or "supports N districts / sites" -->
+
+**Marketing Analyst** · *Dom Ventas India Pvt Ltd* · <!-- ADD: dates -->
+- <!-- ADD: 2 bullets with numbers, e.g. campaign analysis, reporting, dashboards -->
+
+---
+
+## 🚀 Selected projects
 
 ### 🦠 EpiAlertR: Infectious Disease Early Warning Framework
-> A Shiny-based surveillance and predictive modelling framework with a full model suite behind a consistent UI.
-
-- Multi-model forecasting (ARIMA, ARIMAX, SARIMA, GLM, GAM, XGBoost, LSTM, EWMA and more)
-- Rolling-origin **walk-forward validation** across horizons
-- **Early-warning heatmaps** and Normal / Early Warning / Red Alert classification
-- Changepoint detection, correlation analysis and a multi-method **data-cleaning pipeline**
-
-`R` `Shiny` `ARIMAX` `EWMA` `Surveillance`
+| | |
+|---|---|
+| **Problem** | Public-health teams need timely, comparable forecasts across many diseases and models |
+| **Approach** | Shiny app suite with 15+ models, walk-forward validation, EWMA alert logic, changepoint detection, multi-method imputation |
+| **Outcome** | Early-warning heatmaps and alert tiers with automated forecast evaluation <!-- ADD: adoption / accuracy figure --> |
+| **Stack** | `R` `Shiny` `ARIMAX` `EWMA` `XGBoost` `LSTM` |
 
 ### 📊 Advanced Time Series Experiments
-- EWMA with KNN-based imputation
-- Index-based vs date-based forecasting comparison
-- Model performance optimization and automated forecast evaluation
+EWMA with KNN-based imputation, index vs date-based forecasting comparison, and multi-horizon accuracy optimization.
+
+### 🏦 Predictive modelling portfolio
+| Project | Focus |
+|---|---|
+| [Term Deposit Prediction](https://github.com/divakarreddy17/Prediction-of-Term-Deposit-Subscription-for-Bank-Marketing-Data) | Classification on bank marketing data |
+| [Loan Status Prediction](https://github.com/divakarreddy17/Loan-Status-Prediction) | Feature engineering + interpretable model |
+| [IPL Nationality Prediction](https://github.com/divakarreddy17/_Analysis-of-IPL-Cricket-Players-Statistics-for-Nationality-Prediction) | Sports analytics classification |
 
 ---
 
-## 📂 Other projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🌐 Portfolio](https://github.com/divakarreddy17/divakara-portfolio) | Personal portfolio website | `CSS` |
-| [🏦 Term Deposit Prediction](https://github.com/divakarreddy17/Prediction-of-Term-Deposit-Subscription-for-Bank-Marketing-Data) | Classification on bank marketing data | `Python` `Jupyter` |
-| [💳 Loan Status Prediction](https://github.com/divakarreddy17/Loan-Status-Prediction) | Feature engineering + interpretable model | `Python` `Jupyter` |
-| [🏏 IPL Nationality Prediction](https://github.com/divakarreddy17/_Analysis-of-IPL-Cricket-Players-Statistics-for-Nationality-Prediction) | Cricket player statistics analysis | `Python` `Jupyter` |
-| [💼 Afame Technologies Internship](https://github.com/divakarreddy17/Afame-Technologies-Internship) | Internship tasks and notebooks | `Python` `Jupyter` |
-
----
-
-## 📈 Currently working on
-
-- 🎯 Improving **ARIMAX** forecast accuracy
-- 📊 Advanced analytics dashboards
-- ⚙️ Automated disease prediction pipelines
-- 🗺️ Geospatial surveillance mapping
-
----
-
-## 📊 GitHub stats
+## 🧰 Skills
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=divakarreddy17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divakarreddy17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=divakarreddy17&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-1A162D?style=flat-square&logo=rstudioide&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-E6007A?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
+| Category | Details |
+|---|---|
+| **Statistics** | Hypothesis testing, regression, GLM/GAM, Bayesian regression, time series, changepoint detection |
+| **Forecasting** | ARIMA, SARIMA, ARIMAX, EWMA, LSTM, XGBoost, multi-horizon evaluation |
+| **Data engineering** | Imputation (KNN, mean, median, fill), validation, reproducible pipelines |
+| **Clinical / regulatory exposure** | SAS and CDISC standards (academic) |
+
 ---
 
-## 📫 Let's connect
+## 🎓 Education
+
+- **MSc Statistics**, Bangalore University (2022 – 2024)
+- **BSc Economics, Mathematics & Statistics**, Bengaluru City University (2018 – 2021)
+
+---
+
+## 📬 Let's talk
+
+I'm actively looking for roles where rigorous statistics meets real-world impact. The fastest way to reach me is email or LinkedIn.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/divakarreddy17/divakara-portfolio)
 
-**⭐ Open to Data Analyst · Statistical Programmer · Time Series · Health Analytics roles**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=60&section=footer" width="100%" alt="Footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer"/>
