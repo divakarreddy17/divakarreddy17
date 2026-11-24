@@ -261,9 +261,16 @@ Random Forest · XGBoost · SVM
 
 *Marketing Analytics · Business Data Analysis*
 
-- Worked with marketing-related datasets and analytical reporting.
-- Applied data analysis techniques to examine business performance and customer-related metrics.
-
+- Extracted, cleaned, transformed, and analysed relational datasets using SQL to support quantitative reporting and
+  performance assessment.
+- Conducted descriptive and comparative analyses to identify trends, customer patterns, and relationships in sales
+  data.
+- Performed A/B testing and customer segmentation to compare campaign performance and investigate factors
+  associated with conversion and advertising efficiency.
+- Developed Excel reports and dashboards using Pivot Tables, Power Query, and VLOOKUP to monitor key
+  performance indicators and communicate findings.
+- Presented analytical results to sales, product, and design teams, translating quantitative findings into actionable
+  recommendations
 </td>
 </tr>
 </table>
@@ -301,7 +308,7 @@ An R-based analytical framework designed for infectious disease surveillance, ou
 | Time Series Forecasting | ARIMA · SARIMA · ARIMAX · SARIMAX |
 | Machine Learning | Random Forest · XGBoost · SVR · KNN |
 | Deep Learning | LSTM |
-| Early Warning | EWMA · Changepoint Detection |
+| Early Warning | EWMA · Changepoint Detection · Estimate Lag|
 | Data Preprocessing | KNN · Mean · Median · Interpolation |
 | Model Evaluation | RMSE · MAE · MAPE · Walk-Forward Validation |
 
@@ -424,8 +431,6 @@ Statistical investigation of men's and women's One Day International cricket per
 `R` `PCA` `Clustering` `Machine Learning` `Statistical Testing`
 
 > **Attribution:** Reference project by Lohith B N. This is an independently attributable project only if you have reproduced, extended or contributed to the original work. Credit the original author when using their implementation or analysis.
-
-**REFERENCE:** [Lohith B N – GitHub](https://github.com/Lohithbn12)
 
 </td>
 </tr>
