@@ -1,114 +1,296 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a2a6c,50:2a5298,100:1e3c72&height=150&section=header&text=Divakara%20K%20N&fontColor=ffffff&fontSize=42&desc=Statistical%20Programmer%20%7C%20Time%20Series%20%26%20Forecasting%20%7C%20Health%20Analytics&descSize=15&descAlignY=68" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Divakara%20K%20N&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Statistical%20Programmer%20%C2%B7%20Statistics%20%C2%B7%20R%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Forecasting&descSize=17&descAlignY=58" width="100%" alt="Divakara K N"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/divakarreddy17/divakarreddy17/raw/main/Divakara_KN_Resume.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/divakarreddy17/divakara-portfolio)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=800&lines=Transforming+data+into+meaningful+insights;Statistics-first+approach+to+real-world+problems;Building+forecasting+and+early-warning+systems;From+data+preprocessing+to+predictive+analytics" alt="Typing animation"/>
+</a>
 
-</div>
+<br/>
 
-<!-- ADD: upload your resume PDF to this repo as Divakara_KN_Resume.pdf so the Resume button works -->
+<a href="mailto:divakarr233@gmail.com">
+<img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Hire%20Me-2DD4BF?style=for-the-badge" alt="Open to Work"/>
+</a>
 
-## ⚡ At a glance
+<a href="https://www.linkedin.com/in/divakara-k-n/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-| | |
-|---|---|
-| **Currently** | Statistical Programmer & Research Assistant, Tata Institute for Genetics and Society (TIGS) |
-| **Location** | Bengaluru, India (open to relocation / remote) <!-- EDIT if not true --> |
-| **Core skills** | R · Python · SQL · Time Series · Forecasting · Shiny |
-| **Domain** | Infectious disease surveillance · Public health analytics |
-| **Education** | MSc Statistics, Bangalore University (2024) |
-| **Looking for** | Data Analyst · Statistical Programmer · Biostatistics / Health Analytics roles |
+<a href="https://github.com/divakarreddy17?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
----
-
-## 💡 What I bring
-
-- **I build end-to-end, not just models.** Raw data → cleaning → forecasting → validation → interactive dashboard → early-warning alerts.
-- **Statistical rigour.** Rolling-origin walk-forward validation, RMSE / MAE / MAPE tracking, and code audits that catch silent errors (wrong CI inflation, cumulative-sum metrics, frequency mis-specification).
-- **Production mindset.** Consistent UI patterns, download/export handlers, reproducible R pipelines used on real surveillance data.
-- **Clear communication.** I turn model output into heatmaps and alert tiers (Normal / Early Warning / Red Alert) that non-statisticians can act on.
-
----
-
-## 💼 Experience
-
-**Statistical Programmer & Research Assistant** · *Tata Institute for Genetics and Society (TIGS)* · <!-- ADD: start date --> – Present
-- Developed **EpiAlertR**, a Shiny-based surveillance and forecasting framework covering dengue, malaria, chikungunya, cholera, chickenpox and COVID-19
-- Implemented ARIMA / SARIMA / ARIMAX, EWMA control charts and changepoint detection with standardized walk-forward validation
-- Built wastewater surveillance analysis and geospatial (ward-level) mapping in Python
-- <!-- ADD: one quantified result, e.g. "reduced forecast RMSE by X%" or "supports N districts / sites" -->
-
-**Marketing Analyst** · *Dom Ventas India Pvt Ltd* · <!-- ADD: dates -->
-- <!-- ADD: 2 bullets with numbers, e.g. campaign analysis, reporting, dashboards -->
-
----
-
-## 🚀 Selected projects
-
-### 🦠 EpiAlertR: Infectious Disease Early Warning Framework
-| | |
-|---|---|
-| **Problem** | Public-health teams need timely, comparable forecasts across many diseases and models |
-| **Approach** | Shiny app suite with 15+ models, walk-forward validation, EWMA alert logic, changepoint detection, multi-method imputation |
-| **Outcome** | Early-warning heatmaps and alert tiers with automated forecast evaluation <!-- ADD: adoption / accuracy figure --> |
-| **Stack** | `R` `Shiny` `ARIMAX` `EWMA` `XGBoost` `LSTM` |
-
-### 📊 Advanced Time Series Experiments
-EWMA with KNN-based imputation, index vs date-based forecasting comparison, and multi-horizon accuracy optimization.
-
-### 🏦 Predictive modelling portfolio
-| Project | Focus |
-|---|---|
-| [Term Deposit Prediction](https://github.com/divakarreddy17/Prediction-of-Term-Deposit-Subscription-for-Bank-Marketing-Data) | Classification on bank marketing data |
-| [Loan Status Prediction](https://github.com/divakarreddy17/Loan-Status-Prediction) | Feature engineering + interpretable model |
-| [IPL Nationality Prediction](https://github.com/divakarreddy17/_Analysis-of-IPL-Cricket-Players-Statistics-for-Nationality-Prediction) | Sports analytics classification |
-
----
-
-## 🧰 Skills
-
-<div align="center">
-
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-1A162D?style=flat-square&logo=rstudioide&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-E6007A?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<a href="https://divakar-portofolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
-| Category | Details |
+---
+
+## ⚡ Quick Look
+
+| | |
 |---|---|
-| **Statistics** | Hypothesis testing, regression, GLM/GAM, Bayesian regression, time series, changepoint detection |
-| **Forecasting** | ARIMA, SARIMA, ARIMAX, EWMA, LSTM, XGBoost, multi-horizon evaluation |
-| **Data engineering** | Imputation (KNN, mean, median, fill), validation, reproducible pipelines |
-| **Clinical / regulatory exposure** | SAS and CDISC standards (academic) |
+| **Role** | Research Assistant · Statistical Programmer |
+| **Organization** | Tata Institute for Genetics and Society (TIGS) |
+| **Location** | Bengaluru, India |
+| **Education** | MSc Statistics · Bangalore University |
+| **Core Tools** | R · Python · SQL · SAS · Power BI · Excel |
+| **Specialization** | Statistical Analysis · Time Series · Forecasting |
+| **Research Domain** | Infectious Disease Surveillance · Public Health Analytics |
+| **Interests** | Biostatistics · Machine Learning · Predictive Modelling · Health Analytics |
+| **Looking For** | Statistical Programmer · Data Analyst · Biostatistician · Research Analyst roles |
 
 ---
 
-## 🎓 Education
+## 🧪 What I Can Do, and Where I've Done It
 
-- **MSc Statistics**, Bangalore University (2022 – 2024)
-- **BSc Economics, Mathematics & Statistics**, Bengaluru City University (2018 – 2021)
+My work combines statistical methods, programming and analytical thinking to solve practical problems.
+
+| Analytical Problem | Techniques & Approach | Project / Application |
+|---|---|---|
+| How can infectious disease outbreaks be identified early? | EWMA · Changepoint Detection · Statistical Surveillance | EpiAlertR |
+| How can disease trends be forecasted? | ARIMA · SARIMA · ARIMAX · LSTM · XGBoost | EpiAlertR |
+| How can spatial disease patterns be identified? | Global Moran's I · Local Moran's I · Getis-Ord Gi* | Spatial Epidemiology |
+| How can wastewater viral load relate to reported COVID-19 cases? | Cross-Correlation · Lag Estimation · Time Series Analysis | Hyderabad Wastewater Surveillance |
+| Which customers are likely to subscribe to a term deposit? | Classification · Predictive Modelling | [Term Deposit Prediction](https://github.com/divakarreddy17/Prediction-of-Term-Deposit-Subscription-for-Bank-Marketing-Data) |
+| What factors influence loan approval? | Feature Engineering · Classification | [Loan Status Prediction](https://github.com/divakarreddy17/Loan-Status-Prediction) |
+| Can sports statistics help predict player nationality? | Statistical Analysis · Classification | [IPL Nationality Prediction](https://github.com/divakarreddy17/_Analysis-of-IPL-Cricket-Players-Statistics-for-Nationality-Prediction) |
 
 ---
 
-## 📬 Let's talk
+## 🚀 Featured Projects
 
-I'm actively looking for roles where rigorous statistics meets real-world impact. The fastest way to reach me is email or LinkedIn.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🦠 EpiAlertR
+`R` `Time Series` `Forecasting` `Public Health`
+
+An infectious disease surveillance and early-warning framework designed to analyse disease trends, identify abnormal patterns and generate forecasts.
+
+**Key Components**
+- Statistical preprocessing and imputation.
+- ARIMA, SARIMA and ARIMAX.
+- Random Forest and XGBoost.
+- LSTM and predictive modelling.
+- EWMA and changepoint detection.
+- Early Warning and Red Alert classification.
+
+**Application:** Public Health Surveillance.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧬 Wastewater-Based Disease Surveillance
+`R` `Python` `GIS` `Spatial Statistics`
+
+Research-based analysis of wastewater viral load patterns across Hyderabad sampling locations.
+
+**Key Components**
+- Viral load trend analysis.
+- Cross-correlation and lag estimation.
+- EWMA-based early-warning analysis.
+- Global and Local Moran's I.
+- Spatial hotspot identification.
+- Geographical visualization.
+
+**Application:** Environmental Surveillance and Epidemiology.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Term Deposit Subscription Prediction
+
+`Python` `Machine Learning` `Classification`
+
+Predictive modelling using bank marketing data to identify potential term deposit subscribers.
+
+[**View Project →**](https://github.com/divakarreddy17/Prediction-of-Term-Deposit-Subscription-for-Bank-Marketing-Data)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💳 Loan Status Prediction
+
+`Python` `Machine Learning` `Feature Engineering`
+
+Classification-based analysis to predict loan approval outcomes using applicant information and predictive features.
+
+[**View Project →**](https://github.com/divakarreddy17/Loan-Status-Prediction)
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 🏏 IPL Nationality Prediction
+
+`R` `Statistical Analysis` `Classification`
+
+Statistical analysis of IPL cricket player characteristics and performance data to explore patterns and develop nationality prediction models.
+
+[**View Project →**](https://github.com/divakarreddy17/_Analysis-of-IPL-Cricket-Players-Statistics-for-Nationality-Prediction)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Toolbox
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+<img src="https://skillicons.dev/icons?i=r,python,mysql,postgres,powerbi,git,github,vscode,html,php&perline=10" alt="Technology Stack"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=60&section=footer" width="100%" alt="Footer"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+<img src="https://img.shields.io/badge/Statistics-2C5364?style=for-the-badge" alt="Statistics"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge" alt="Machine Learning"/>
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Statistics & Analysis**
+
+- Hypothesis Testing
+- Linear Regression
+- Logistic Regression
+- GLM / GAM
+- Bayesian Regression
+- Correlation Analysis
+- Statistical Inference
+- Spatial Statistics
+
+</td>
+<td width="33%" valign="top">
+
+**Time Series & ML**
+
+- ARIMA / SARIMA
+- ARIMAX / SARIMAX
+- EWMA
+- Changepoint Detection
+- Random Forest
+- XGBoost
+- LSTM
+- SVR / KNN
+- Forecast Evaluation
+
+</td>
+<td width="33%" valign="top">
+
+**Programming & Visualization**
+
+- R Programming
+- Python
+- SQL / MySQL
+- SAS
+- Power BI
+- Microsoft Excel
+- ggplot2
+- pandas
+- Plotly
+- GIS / GeoPandas
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Areas of Interest
+
+- **Biostatistics:** Statistical methods for biomedical and public health research.
+- **Time Series Forecasting:** Statistical and machine learning approaches for temporal data.
+- **Epidemiology:** Infectious disease surveillance, outbreak detection and early-warning systems.
+- **Spatial Statistics:** Geospatial analysis, spatial autocorrelation and hotspot detection.
+- **Clinical Programming:** SAS programming and CDISC standards, including SDTM and ADaM.
+- **Machine Learning:** Predictive modelling, model evaluation and interpretable analytics.
+
+---
+
+## 📈 GitHub Snapshot
+
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/divakarreddy17?label=Followers&style=for-the-badge&color=2C5364&logo=github" alt="Followers"/>
+
+<img src="https://img.shields.io/github/last-commit/divakarreddy17/divakarreddy17?label=Profile%20Updated&style=for-the-badge&color=2C5364" alt="Last Commit"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=divakarreddy17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divakarreddy17&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=divakarreddy17&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🎯 Looking For
+
+I am interested in opportunities where statistical programming, analytical thinking and data-driven research contribute to meaningful real-world outcomes.
+
+**Target Roles**
+
+- Statistical Programmer
+- Data Analyst
+- Biostatistician
+- Statistical Analyst
+- Research Analyst
+- Healthcare / Clinical Data Analyst
+
+**Areas Where I Want to Grow**
+
+- Advanced statistical modelling and forecasting.
+- Clinical trial data analysis and SAS programming.
+- Applied machine learning and predictive analytics.
+- Public health and biomedical research.
+- Production-ready analytical applications.
+
+---
+
+## 📬 Let's Connect
+
+I enjoy working on challenging analytical problems, exploring statistical methodologies and developing data-driven solutions.
+
+**Have a research collaboration, analytical challenge or professional opportunity? Let's connect!**
+
+<div align="center">
+
+<a href="mailto:divakarr233@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/divakara-k-n/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://divakar-portofolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
