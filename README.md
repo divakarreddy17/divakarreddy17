@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Divakara%20K%20N&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Statistical%20Programmer%20%C2%B7%20Statistics%20%C2%B7%20R%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Forecasting&descSize=17&descAlignY=58" width="100%" alt="Divakara K N"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Divakara%20K%20N&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Statistical%20Programmer%20%C2%B7%20Statistics%20%C2%B7%20R%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20SAS&descSize=17&descAlignY=58" width="100%" alt="Divakara K N"/>
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=850&lines=Statistical+Programmer+%7C+Research+Assistant;Time+Series+Analysis+%7C+Forecasting;Machine+Learning+%7C+Biostatistics;Transforming+Data+into+Meaningful+Insights" alt="Typing SVG"/>
@@ -733,7 +733,7 @@ I am interested in opportunities that combine statistical methodologies, program
 
 <div align="center">
 
-### Have a Research Collaboration or Professional Opportunity?
+### Let's Connect Through Statistics, Data & Research
 
 I would be happy to connect with researchers, statisticians, recruiters and professionals working in analytics, healthcare and data science.
 
@@ -753,7 +753,7 @@ I would be happy to connect with researchers, statisticians, recruiters and prof
 
 <br/><br/>
 
-**Email:** Add your professional email address here.
+**Email:** divakarr233@gmail.com.
 
 <br/><br/>
 
