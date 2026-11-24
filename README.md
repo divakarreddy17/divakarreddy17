@@ -1,304 +1,691 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Divakara%20K%20N&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Statistical%20Programmer%20%C2%B7%20Statistics%20%C2%B7%20R%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20SAS&descSize=17&descAlignY=58" width="100%" alt="Divakara K N"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Divakara%20K%20N&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Statistical%20Programmer%20%C2%B7%20Statistics%20%C2%B7%20R%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Forecasting&descSize=17&descAlignY=58" width="100%" alt="Divakara K N"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=1000&color=2DD4BF&center=true&vCenter=true&width=850&lines=Transforming+Data+into+Meaningful+Insights;Statistical+Programming+%7C+Time+Series+Analysis;Forecasting+%7C+Machine+Learning+%7C+Health+Analytics;Building+Data-Driven+Research+Solutions" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=850&lines=Statistical+Programmer+%7C+Research+Assistant;Time+Series+Analysis+%7C+Forecasting;Machine+Learning+%7C+Biostatistics;Transforming+Data+into+Meaningful+Insights" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<a href="mailto:divakarr233@gmail.com">
-<img src="https://img.shields.io/badge/Open%20to%20Work-Hire%20Me-2DD4BF?style=for-the-badge" alt="Open to Work"/>
-</a>
-<a href="https://www.linkedin.com/in/divakara-k-n/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/divakara-k-n-066042194/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://divakar-portofolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="https://github.com/divakarreddy17">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=divakarreddy17&label=PROFILE%20VIEWS&color=2C5364&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## ⚡ Quick Look
+<div align="center">
 
-| Category | Details |
-|---|---|
-| **Current Role** | Research Assistant · Statistical Programmer |
-| **Organization** | Tata Institute for Genetics and Society (TIGS) |
-| **Location** | Bengaluru, India |
-| **Education** | MSc Statistics · Bangalore University |
-| **Programming** | R · Python · SQL · SAS |
-| **Visualization** | Power BI · Excel · ggplot2 · Plotly |
-| **Specialization** | Statistical Analysis · Time Series · Forecasting |
-| **Research Domain** | Infectious Disease Surveillance · Public Health Analytics |
-| **Interests** | Biostatistics · Machine Learning · Predictive Modelling |
-| **Career Interests** | Statistical Programmer · Data Analyst · Biostatistician · Research Analyst |
+# 👨‍💻 PROFESSIONAL PROFILE
 
----
+### Statistical Programmer | Research Assistant
 
-## 💡 What I Bring
+**Statistics · Time Series Forecasting · Machine Learning · Health Analytics**
 
-- **Statistical Programming:** Applying statistical methodologies to real-world datasets using R, Python and SAS.
-- **Time Series Analysis:** Developing forecasting models using ARIMA, SARIMA, ARIMAX, SARIMAX and machine learning approaches.
-- **Predictive Analytics:** Implementing Random Forest, XGBoost, LSTM, GLM, GAM and other predictive algorithms.
-- **Research & Surveillance:** Working on infectious disease surveillance, wastewater-based viral monitoring and spatial epidemiology.
-- **Spatial Statistics:** Applying Global Moran's I, Local Moran's I, Getis-Ord Gi* and DBSCAN.
-- **Data Visualization:** Translating complex statistical results into meaningful visualizations, dashboards and analytical reports.
+*Developing statistical solutions and analytical frameworks to transform complex datasets into meaningful insights.*
 
----
+</div>
 
-## 🧪 Analytical Expertise
+<br/>
 
-| Analytical Area | Methods & Techniques |
-|---|---|
-| **Statistical Analysis** | Hypothesis Testing, Regression, Correlation, ANOVA, MANOVA |
-| **Time Series** | ARIMA, SARIMA, ARIMAX, SARIMAX, EWMA, Changepoint Detection |
-| **Machine Learning** | Random Forest, XGBoost, SVM, KNN, Logistic Regression |
-| **Deep Learning** | LSTM, Neural Networks |
-| **Spatial Statistics** | Global Moran's I, Local Moran's I, Getis-Ord Gi*, DBSCAN |
-| **Forecast Evaluation** | RMSE, MAE, MAPE, Walk-Forward Validation |
-| **Data Preprocessing** | KNN Imputation, Mean/Median Imputation, Interpolation, Data Transformation |
-| **Data Visualization** | ggplot2, Plotly, Power BI, Excel |
+## 🧭 NAVIGATION
+
+<div align="center">
+
+| [👨‍💻 About](#-about-me) | [💼 Experience](#-professional-experience) | [🚀 Projects](#-featured-projects) |
+|:---:|:---:|:---:|
+| [🧰 Skills](#-technical-expertise) | [🎓 Education](#-education) | [📊 Statistics](#-github-analytics) |
+| [🎯 Career](#-career-objective) | [📬 Contact](#-lets-connect) | |
+
+</div>
 
 ---
 
-## 💼 Professional Experience
+## 👨‍💻 ABOUT ME
+
+I am a **Statistical Programmer and Research Assistant** with an MSc in Statistics, currently working at the **Tata Institute for Genetics and Society (TIGS)**.
+
+My work focuses on applying statistical methodologies, programming and machine learning techniques to real-world research problems, particularly in infectious disease surveillance, time series forecasting and public health analytics.
+
+I enjoy working across the complete analytical workflow, from data preprocessing and exploratory analysis to statistical modelling, validation and visualization.
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+### 📈
+**STATISTICS**
+
+Regression · GLM · GAM · Bayesian Methods
+
+</td>
+<td align="center" width="33%">
+
+### ⏳
+**FORECASTING**
+
+ARIMA · SARIMA · EWMA · LSTM
+
+</td>
+<td align="center" width="33%">
+
+### 🧠
+**MACHINE LEARNING**
+
+Random Forest · XGBoost · SVM
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### ⚡ Professional Snapshot
+
+<table width="100%">
+<tr>
+<td width="35%"><b>Current Position</b></td>
+<td>Research Assistant · Statistical Programmer</td>
+</tr>
+<tr>
+<td><b>Organization</b></td>
+<td>Tata Institute for Genetics and Society (TIGS)</td>
+</tr>
+<tr>
+<td><b>Location</b></td>
+<td>Bengaluru, India</td>
+</tr>
+<tr>
+<td><b>Qualification</b></td>
+<td>MSc Statistics · Bangalore University</td>
+</tr>
+<tr>
+<td><b>Primary Languages</b></td>
+<td>R · Python · SQL · SAS</td>
+</tr>
+<tr>
+<td><b>Research Interests</b></td>
+<td>Biostatistics · Epidemiology · Health Analytics</td>
+</tr>
+<tr>
+<td><b>Technical Interests</b></td>
+<td>Forecasting · Machine Learning · Spatial Statistics</td>
+</tr>
+</table>
+
+---
+
+## 🔬 AREAS OF EXPERTISE
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Statistical Analysis
+
+- Hypothesis Testing
+- Linear & Logistic Regression
+- Generalized Linear Models
+- Generalized Additive Models
+- Bayesian Regression
+- ANOVA & MANOVA
+
+</td>
+<td width="50%" valign="top">
+
+### ⏳ Time Series & Forecasting
+
+- ARIMA & SARIMA
+- ARIMAX & SARIMAX
+- EWMA Control Charts
+- Changepoint Detection
+- Cross-Correlation Analysis
+- Multi-Horizon Forecasting
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning
+
+- Random Forest
+- XGBoost
+- Support Vector Machines
+- K-Nearest Neighbors
+- Logistic Regression
+- LSTM & Neural Networks
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Spatial Statistics
+
+- Global Moran's I
+- Anselin Local Moran's I
+- Getis-Ord Gi*
+- DBSCAN Clustering
+- Spatial Autocorrelation
+- Geospatial Visualization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧹 Data Processing
+
+- Data Cleaning
+- Missing Value Imputation
+- KNN Imputation
+- Data Transformation
+- Feature Engineering
+- Exploratory Data Analysis
+
+</td>
+<td width="50%" valign="top">
+
+### 📉 Model Evaluation
+
+- RMSE
+- MAE
+- MAPE
+- Walk-Forward Validation
+- Residual Diagnostics
+- Forecast Accuracy Assessment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 PROFESSIONAL EXPERIENCE
+
+<table width="100%">
+<tr>
+<td width="8%" align="center" valign="top">
+
+### 🔬
+
+</td>
+<td width="92%">
 
 ### Statistical Programmer (Research Assistant)
+
 **Tata Institute for Genetics and Society (TIGS)**
 
+*Research · Statistical Programming · Public Health Analytics*
+
+**Key Responsibilities & Contributions**
+
 - Developing **EpiAlertR**, an R-based infectious disease surveillance and forecasting framework.
-- Implementing statistical and machine learning models for disease trend analysis, forecasting and early-warning detection.
-- Working with infectious disease surveillance datasets and published research datasets covering 17 diseases.
-- Developing wastewater-based viral surveillance analyses and investigating temporal relationships between viral load and reported COVID-19 cases.
-- Applying spatial statistical methods to identify disease clustering and geographical patterns.
-- Developing analytical workflows, visualizations and interactive reporting components.
+- Implementing statistical and machine learning algorithms for disease forecasting and predictive analytics.
+- Working with NCDC surveillance data and published research datasets covering **17 infectious diseases**.
+- Applying time series methodologies for trend analysis, forecasting and early-warning detection.
+- Conducting wastewater-based viral surveillance and investigating temporal relationships between viral load and reported COVID-19 cases.
+- Applying spatial statistical techniques to identify geographical disease patterns and hotspots.
+- Developing reproducible analytical workflows and data visualizations.
+
+**Technical Environment**
+
+`R` `Python` `SQL` `Time Series` `Machine Learning` `Spatial Statistics`
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+
+### 📊
+
+</td>
+<td>
 
 ### Marketing Analyst
+
 **Dom Ventas India Pvt. Ltd.**
 
-- Worked on marketing data analysis and reporting.
-- Applied analytical techniques to understand business performance and customer-related metrics.
+*Marketing Analytics · Business Data Analysis*
+
+- Worked with marketing-related datasets and analytical reporting.
+- Applied data analysis techniques to examine business performance and customer-related metrics.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
-### 🦠 1. EpiAlertR – Infectious Disease Surveillance & Early Warning Framework
-
-**Technologies:** `R` `Shiny` `Time Series` `Machine Learning` `Forecasting`
-
-An R-based analytical framework designed for infectious disease surveillance, outbreak detection and forecasting. The platform integrates statistical methods and machine learning algorithms to identify abnormal disease patterns and support early public health interventions.
-
-**Key Models & Methodologies**
-
-- **Time Series Forecasting:** ARIMA, SARIMA, ARIMAX and SARIMAX.
-- **Machine Learning:** Random Forest, XGBoost, Support Vector Regression (SVR) and KNN.
-- **Deep Learning:** Long Short-Term Memory (LSTM).
-- **Early Warning:** Exponentially Weighted Moving Average (EWMA) and Changepoint Detection.
-- **Data Processing:** KNN Imputation, Mean/Median Imputation and Interpolation.
-- **Model Evaluation:** RMSE, MAE, MAPE and Walk-Forward Validation.
-
-**Key Outcomes**
-
-- Developed an integrated analytical framework for infectious disease surveillance covering **17 diseases**.
-- Implemented multiple statistical and machine learning approaches for forecasting and predictive analysis.
-- Generated automated early-warning classifications: **Normal, Early Warning and Red Alert**.
-- Integrated analytical outputs with interactive dashboards and visualization components.
+*Selected research and analytical projects demonstrating statistical programming, predictive modelling, forecasting and machine learning capabilities.*
 
 ---
 
-### 🧬 2. Wastewater-Based Viral Surveillance – Hyderabad
+<table width="100%">
+<tr>
+<td>
 
-**Technologies:** `R` `Python` `Time Series Analysis` `Spatial Statistics` `GIS`
+<h2>🦠 01. EpiAlertR</h2>
+
+<h3>Infectious Disease Surveillance & Early Warning Framework</h3>
+
+<img src="https://img.shields.io/badge/DOMAIN-PUBLIC%20HEALTH-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/LANGUAGE-R-276DC3?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-FORECASTING-6C63FF?style=flat-square"/>
+
+**PROJECT OVERVIEW**
+
+An R-based analytical framework designed for infectious disease surveillance, outbreak detection and forecasting. The platform integrates statistical and machine learning methodologies to identify abnormal disease patterns and generate early-warning signals.
+
+---
+
+**⚙️ KEY MODELS & METHODOLOGIES**
+
+| Analytical Component | Models / Methods |
+|---|---|
+| Time Series Forecasting | ARIMA · SARIMA · ARIMAX · SARIMAX |
+| Machine Learning | Random Forest · XGBoost · SVR · KNN |
+| Deep Learning | LSTM |
+| Early Warning | EWMA · Changepoint Detection |
+| Data Preprocessing | KNN · Mean · Median · Interpolation |
+| Model Evaluation | RMSE · MAE · MAPE · Walk-Forward Validation |
+
+---
+
+**🎯 KEY OUTCOMES**
+
+- Developed an integrated surveillance framework covering **17 infectious diseases**.
+- Implemented multiple statistical and machine learning models for forecasting and predictive analysis.
+- Designed automated alert classifications:
+  - 🟢 **Normal**
+  - 🟠 **Early Warning**
+  - 🔴 **Red Alert**
+- Integrated analytical outputs with visualization and dashboard components.
+- Established a structured workflow for data preprocessing, modelling and forecast evaluation.
+
+**TECHNOLOGY STACK**
+
+`R` `PHP` `JavaScript` `Time Series` `Machine Learning` `Forecasting` `Data Visualization`
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+<td>
+
+<h2>🧬 02. Wastewater-Based Viral Surveillance</h2>
+
+<h3>Temporal & Spatial Analysis of COVID-19 Viral Load in Hyderabad</h3>
+
+<img src="https://img.shields.io/badge/DOMAIN-EPIDEMIOLOGY-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-SPATIAL%20STATISTICS-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATA-20%20SAMPLING%20SITES-2563EB?style=flat-square"/>
+
+**PROJECT OVERVIEW**
 
 Research-based analysis of wastewater viral loads across **20 sampling locations in Hyderabad**, covering December 2021 to April 2024, to investigate temporal patterns, spatial clustering and potential early-warning signals associated with COVID-19 surveillance.
 
-**Key Models & Methodologies**
+---
 
-- **Time Series Analysis:** Trend Analysis, Cross-Correlation Function (CCF) and Lag Estimation.
-- **Early Warning:** EWMA Control Charts and Changepoint Detection.
-- **Spatial Autocorrelation:** Global Moran's I and Anselin Local Moran's I.
-- **Hotspot Detection:** Getis-Ord Gi*.
-- **Spatial Clustering:** DBSCAN.
-- **Visualization:** Geospatial Mapping and Spatial Distribution Analysis.
+**⚙️ KEY MODELS & METHODOLOGIES**
 
-**Key Outcomes**
+| Analytical Component | Models / Methods |
+|---|---|
+| Temporal Analysis | Trend Analysis · Cross-Correlation Function |
+| Lag Estimation | One-Week Lag Analysis |
+| Early Warning | EWMA · Changepoint Detection |
+| Spatial Autocorrelation | Global Moran's I · Local Moran's I |
+| Hotspot Detection | Getis-Ord Gi* |
+| Spatial Clustering | DBSCAN |
+| Visualization | Geospatial Mapping · Spatial Distribution |
+
+---
+
+**🎯 KEY OUTCOMES**
 
 - Analysed viral load patterns across **20 wastewater sampling locations**.
 - Investigated a **one-week lag relationship** between wastewater viral load and reported COVID-19 cases.
-- Identified spatial clustering patterns using Moran's I and hotspot analysis.
-- Developed spatial and temporal visualizations to investigate potential early-warning signals.
+- Evaluated spatial autocorrelation using Global Moran's I and Monte Carlo permutation testing.
+- Identified spatial clustering patterns using Local Moran's I.
+- Applied hotspot analysis to investigate geographical concentrations.
+- Developed temporal and spatial visualizations for wastewater surveillance.
+
+**TECHNOLOGY STACK**
+
+`R` `Python` `GIS` `Spatial Statistics` `Time Series` `ggplot2`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏏 3. Statistical Analysis of ODI Cricketers (2019–2023)
+<table width="100%">
+<tr>
+<td>
 
-**Technologies:** `R` `Statistical Analysis` `Machine Learning` `Data Visualization`
+<h2>🏏 03. Statistical Analysis of ODI Cricketers (2019–2023)</h2>
 
-Statistical investigation of men's and women's One Day International (ODI) cricket performance between 2019 and 2023, focusing on player performance patterns, classification and match-related factors.
+<h3>Statistical Modelling & Machine Learning in Cricket Analytics</h3>
 
-**Key Models & Methodologies**
+<img src="https://img.shields.io/badge/DOMAIN-SPORTS%20ANALYTICS-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-STATISTICAL%20MODELLING-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/TECHNOLOGY-R-276DC3?style=flat-square"/>
 
-- **Dimensionality Reduction:** Principal Component Analysis (PCA).
-- **Clustering:** K-Means and Hierarchical Clustering.
-- **Classification:** Random Forest, Support Vector Machine (SVM), Logistic Regression and KNN.
-- **Advanced Modelling:** Neural Networks and Naive Bayes.
-- **Statistical Testing:** ANOVA and MANOVA.
-- **Model Evaluation:** ROC Curve and AUC.
+**PROJECT OVERVIEW**
 
-**Key Outcomes**
-
-- Identified player performance patterns through dimensionality reduction and clustering.
-- Explored player classification using multiple machine learning algorithms.
-- Investigated differences in cricket performance across countries and continents.
-- Examined associations between toss decisions and match outcomes.
+Statistical investigation of men's and women's One Day International cricket performance between 2019 and 2023, focusing on player performance patterns, classification, clustering and match-related factors.
 
 ---
 
-### 🏦 4. Term Deposit Subscription Prediction
+**⚙️ KEY MODELS & METHODOLOGIES**
 
-**Technologies:** `Python` `Machine Learning` `Classification` `Statistical Analysis`
+| Analytical Component | Models / Methods |
+|---|---|
+| Dimensionality Reduction | Principal Component Analysis (PCA) |
+| Clustering | K-Means · Hierarchical Clustering |
+| Classification | Random Forest · SVM · Logistic Regression · KNN |
+| Advanced Classification | Neural Networks · Naive Bayes |
+| Statistical Testing | ANOVA · MANOVA |
+| Model Evaluation | ROC Curve · AUC |
 
-Predictive modelling of bank marketing data to identify customers who are more likely to subscribe to term deposits.
+---
 
-**Key Models & Methodologies**
+**🎯 KEY ANALYTICAL AREAS**
+
+- Player performance pattern identification using PCA.
+- Player grouping through clustering techniques.
+- Comparative analysis of men's and women's cricket performance.
+- Classification of player characteristics using machine learning.
+- Statistical investigation of performance differences across countries and continents.
+- Examination of associations between toss decisions and match outcomes.
+
+**TECHNOLOGY STACK**
+
+`R` `PCA` `Clustering` `Machine Learning` `Statistical Testing`
+
+> **Attribution:** Reference project by Lohith B N. This is an independently attributable project only if you have reproduced, extended or contributed to the original work. Credit the original author when using their implementation or analysis.
+
+**REFERENCE:** [Lohith B N – GitHub](https://github.com/Lohithbn12)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+<td>
+
+<h2>🏦 04. Term Deposit Subscription Prediction</h2>
+
+<h3>Bank Marketing Predictive Analytics</h3>
+
+<img src="https://img.shields.io/badge/DOMAIN-BANKING-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-CLASSIFICATION-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=flat-square"/>
+
+**PROJECT OVERVIEW**
+
+Predictive modelling of bank marketing data to investigate customer characteristics and identify factors associated with term deposit subscription.
+
+**⚙️ KEY METHODOLOGIES**
 
 - Exploratory Data Analysis (EDA).
-- Data preprocessing and feature engineering.
-- Classification and predictive modelling.
-- Model performance evaluation.
+- Data Cleaning and Preprocessing.
+- Feature Engineering.
+- Classification and Predictive Modelling.
+- Model Performance Evaluation.
 
-**Key Outcomes**
+**🎯 KEY OUTCOMES**
 
 - Analysed customer characteristics and subscription patterns.
-- Developed a classification-based predictive modelling workflow.
-- Explored factors associated with term deposit subscription.
+- Explored variables associated with customer subscription behaviour.
+- Developed a structured predictive modelling workflow.
+- Applied analytical techniques to support customer segmentation and decision-making.
 
-**Repository:** [View Project →](https://github.com/divakarreddy17/Prediction-of-Term-Deposit-Subscription-for-Bank-Marketing-Data)
+**TECHNOLOGY STACK**
+
+`Python` `Pandas` `Machine Learning` `Classification` `Data Visualization`
+
+**REPOSITORY:** [View Project →](https://github.com/divakarreddy17/Prediction-of-Term-Deposit-Subscription-for-Bank-Marketing-Data)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💳 5. Loan Status Prediction
+<table width="100%">
+<tr>
+<td>
 
-**Technologies:** `Python` `Machine Learning` `Classification` `Feature Engineering`
+<h2>💳 05. Loan Status Prediction</h2>
 
-A predictive analytics project focused on identifying loan approval outcomes using applicant characteristics and financial information.
+<h3>Machine Learning-Based Loan Approval Analysis</h3>
 
-**Key Models & Methodologies**
+<img src="https://img.shields.io/badge/DOMAIN-FINANCIAL%20ANALYTICS-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-PREDICTIVE%20MODELLING-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LANGUAGE-PYTHON-3776AB?style=flat-square"/>
+
+**PROJECT OVERVIEW**
+
+A predictive analytics project focused on examining applicant characteristics and developing classification-based approaches to predict loan approval outcomes.
+
+**⚙️ KEY METHODOLOGIES**
 
 - Exploratory Data Analysis.
-- Data Cleaning and Feature Engineering.
+- Data Cleaning and Transformation.
+- Feature Engineering.
 - Classification Algorithms.
 - Predictive Model Evaluation.
 
-**Key Outcomes**
+**🎯 KEY OUTCOMES**
 
 - Investigated applicant characteristics associated with loan approval.
+- Explored relationships between financial and demographic variables.
 - Developed a structured classification workflow.
-- Explored data-driven approaches to loan status prediction.
+- Applied predictive analytics to loan status assessment.
 
-**Repository:** [View Project →](https://github.com/divakarreddy17/Loan-Status-Prediction)
+**TECHNOLOGY STACK**
+
+`Python` `Pandas` `Machine Learning` `Classification`
+
+**REPOSITORY:** [View Project →](https://github.com/divakarreddy17/Loan-Status-Prediction)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏏 6. IPL Player Nationality Prediction
+<table width="100%">
+<tr>
+<td>
 
-**Technologies:** `R` `Statistical Analysis` `Machine Learning` `Classification`
+<h2>🏏 06. IPL Player Nationality Prediction</h2>
 
-Statistical analysis of IPL cricket player statistics to investigate player characteristics and develop nationality prediction models.
+<h3>Statistical Analysis of IPL Cricket Players</h3>
 
-**Key Models & Methodologies**
+<img src="https://img.shields.io/badge/DOMAIN-SPORTS%20ANALYTICS-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-CLASSIFICATION-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LANGUAGE-R-276DC3?style=flat-square"/>
+
+**PROJECT OVERVIEW**
+
+Statistical analysis of IPL cricket player statistics to investigate player characteristics and explore nationality prediction through classification-based analytical approaches.
+
+**⚙️ KEY METHODOLOGIES**
 
 - Exploratory Data Analysis.
-- Statistical Summaries and Visualization.
+- Statistical Summaries.
+- Player Performance Analysis.
 - Feature Analysis.
 - Classification and Predictive Modelling.
+- Data Visualization.
 
-**Key Outcomes**
+**🎯 KEY OUTCOMES**
 
-- Explored relationships between player statistics and nationality.
-- Identified patterns in player characteristics.
-- Applied classification techniques to sports analytics.
+- Explored relationships between player characteristics and nationality.
+- Investigated statistical patterns in player performance.
+- Applied classification approaches to sports analytics.
+- Developed visual summaries of player statistics.
 
-**Repository:** [View Project →](https://github.com/divakarreddy17/_Analysis-of-IPL-Cricket-Players-Statistics-for-Nationality-Prediction)
+**TECHNOLOGY STACK**
+
+`R` `Statistical Analysis` `Classification` `Data Visualization`
+
+**REPOSITORY:** [View Project →](https://github.com/divakarreddy17/_Analysis-of-IPL-Cricket-Players-Statistics-for-Nationality-Prediction)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 TECHNICAL EXPERTISE
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=r,python,mysql,postgres,git,github,vscode,html,php&perline=9" alt="Technical Skills"/>
+### PROGRAMMING LANGUAGES
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SAS-00599C?style=for-the-badge&logo=sas&logoColor=white" alt="SAS"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Statistics-2C5364?style=for-the-badge" alt="Statistics"/>
+<img src="https://skillicons.dev/icons?i=r,python,mysql,postgres,git,github,vscode&perline=7" alt="Programming Skills"/>
 
 </div>
 
-### Programming & Data Analysis
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- R Programming
-- Python
-- SQL / MySQL
-- SAS Programming
-- Data Cleaning and Transformation
-- Exploratory Data Analysis
+### 💻 Programming & Database
 
-### Statistical & Predictive Modelling
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAS-00599C?style=flat-square&logo=sas&logoColor=white"/>
 
-- Linear and Logistic Regression
-- Generalized Linear Models (GLM)
-- Generalized Additive Models (GAM)
-- Bayesian Regression
-- Hypothesis Testing
-- Time Series Forecasting
-- Machine Learning
-- Deep Learning
+### 📊 Business Intelligence
 
-### Clinical & Statistical Programming Exposure
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
-- SAS Base, SAS STAT and SAS Macro
-- CDISC Standards
-- SDTM and ADaM
-- Tables, Listings and Figures (TLFs)
-- Define.xml
-- Pinnacle 21
+</td>
+<td width="50%" valign="top">
+
+### 📈 Data Visualization
+
+<img src="https://img.shields.io/badge/ggplot2-E6007A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+### 🧠 Machine Learning
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+### 🧬 Clinical & Statistical Programming
+
+<table width="100%">
+<tr>
+<td align="center">
+
+**SAS Programming**
+
+Base SAS · SAS STAT · SAS Macro
+
+</td>
+<td align="center">
+
+**CDISC Standards**
+
+SDTM · ADaM
+
+</td>
+<td align="center">
+
+**Clinical Deliverables**
+
+TLFs · ADRG · Define.xml · Pinnacle 21
+
+</td>
+</tr>
+</table>
+
+*Clinical and regulatory standards: academic exposure and ongoing learning.*
 
 ---
 
-## 🎓 Education
+## 🎓 EDUCATION
 
-**Master of Science (MSc) – Statistics**  
-Bangalore University | 2022 – 2024
+<table width="100%">
+<tr>
+<td width="12%" align="center">
 
-**Bachelor of Science – Economics, Mathematics & Statistics**  
-Bengaluru City University | 2018 – 2021
+### 🎓
+
+</td>
+<td width="88%">
+
+### Master of Science – Statistics
+
+**Bangalore University**
+
+2022 – 2024
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 📚
+
+</td>
+<td>
+
+### Bachelor of Science – Economics, Mathematics & Statistics
+
+**Bengaluru City University**
+
+2018 – 2021
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/divakarreddy17?label=Followers&style=for-the-badge&color=2C5364&logo=github" alt="GitHub Followers"/>
+<img src="https://github-readme-stats.vercel.app/api?username=divakarreddy17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="175" alt="GitHub Statistics"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=divakarreddy17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divakarreddy17&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divakarreddy17&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Most Used Languages"/>
 
 <br/><br/>
 
@@ -308,51 +695,68 @@ Bengaluru City University | 2018 – 2021
 
 ---
 
-## 🎯 Career Interests
+## 🎯 CAREER OBJECTIVE
 
-I am interested in opportunities where statistical programming, analytical thinking and data-driven research contribute to meaningful real-world outcomes.
+<table width="100%">
+<tr>
+<td align="center">
 
-**Target Roles**
+### Turning Statistical Knowledge into Real-World Impact
 
-- Statistical Programmer
-- Data Analyst
-- Biostatistician
-- Statistical Analyst
-- Research Analyst
-- Healthcare / Clinical Data Analyst
+I am interested in opportunities that combine statistical methodologies, programming, predictive modelling and analytical research.
 
-**Areas of Professional Growth**
+</td>
+</tr>
+<tr>
+<td>
 
-- Advanced Statistical Modelling and Forecasting.
-- Clinical Trial Data Analysis and SAS Programming.
-- Applied Machine Learning and Predictive Analytics.
-- Public Health and Biomedical Research.
-- Production-Ready Analytical Applications.
-
----
-
-## 📬 Let's Connect
-
-I enjoy working on challenging analytical problems, exploring statistical methodologies and developing data-driven solutions.
-
-Have a research collaboration, analytical challenge or professional opportunity? Let's connect!
+**TARGET ROLES**
 
 <div align="center">
 
-<a href="mailto:divakarr233@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://img.shields.io/badge/Statistical%20Programmer-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Biostatistician-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analyst-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistical%20Analyst-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research%20Analyst-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Healthcare%20Analytics-203A43?style=for-the-badge"/>
 
-<a href="https://www.linkedin.com/in/divakara-k-n/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📬 LET'S CONNECT
+
+<div align="center">
+
+### Have a Research Collaboration or Professional Opportunity?
+
+I would be happy to connect with researchers, statisticians, recruiters and professionals working in analytics, healthcare and data science.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/divakara-k-n-066042194/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://divakar-portofolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-My%20Work-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/divakarreddy17">
+<img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" width="100%" alt="Footer"/>
+**Email:** Add your professional email address here.
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
