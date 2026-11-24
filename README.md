@@ -33,11 +33,10 @@ Earlier: Marketing Analyst at Dom Ventas (Amazon sales analytics, A/B tests, KPI
 
 ### 🔧 Tech Focus
 
-- **Tools & Platforms:** R, Python, SQL, Shiny, Power BI, Excel, Git
+- **Tools & Platforms:** R, Python, SQL, SAS, Shiny, Power BI, Excel, Git
 - **Libraries:** pandas, NumPy, scikit-learn, statsmodels, ggplot2, forecast, caret, Matplotlib, Seaborn, Plotly
 - **Stats / ML:** Hypothesis testing, regression (LM, GLM, GAM, Bayesian), time series (ARIMA family, EWMA, change-points), classification, clustering, LSTM
-- **Spatial:** Choropleth maps, Global and Local Moran's I, Getis-Ord Gi*
-- **Academic exposure:** SAS and CDISC standards
+- **Spatial Analysis:** Choropleth maps, Global and Local Moran's I, Getis-Ord Gi*
 
 <div align="center">
 
@@ -83,7 +82,7 @@ Earlier: Marketing Analyst at Dom Ventas (Amazon sales analytics, A/B tests, KPI
 
 ### 🧭 What I'm looking for
 
-Data Analyst / Data Scientist / Statistician / Statistical Programmer / Biostatistician roles in healthcare, pharma, life sciences, finance or analytics-driven businesses.
+Data Analyst / Statistician / Statistical Programmer / Biostatistician roles in healthcare, pharma, life sciences, finance or analytics-driven businesses.
 
 > Open to collaborate. Reach out by email or LinkedIn!
 
