@@ -133,7 +133,7 @@ Random Forest · XGBoost · SVM
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 📊 Statistical Analysis
 
@@ -145,7 +145,7 @@ Random Forest · XGBoost · SVM
 - ANOVA & MANOVA
 
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### ⏳ Time Series & Forecasting
 
@@ -157,9 +157,7 @@ Random Forest · XGBoost · SVM
 - Multi-Horizon Forecasting
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🤖 Machine Learning
 
@@ -171,7 +169,10 @@ Random Forest · XGBoost · SVM
 - LSTM & Neural Networks
 
 </td>
-<td width="50%" valign="top">
+</tr>
+
+<tr>
+<td width="33.33%" valign="top">
 
 ### 🌍 Spatial Statistics
 
@@ -183,9 +184,7 @@ Random Forest · XGBoost · SVM
 - Geospatial Visualization
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🧹 Data Processing
 
@@ -197,7 +196,7 @@ Random Forest · XGBoost · SVM
 - Exploratory Data Analysis
 
 </td>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 📉 Model Evaluation
 
