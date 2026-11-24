@@ -106,6 +106,24 @@ Research-based analysis of wastewater viral load patterns across Hyderabad sampl
 <tr>
 <td width="50%" valign="top">
 
+
+### 🏏 Statistical Analysis of ODI Cricketers (2019–2023)
+
+`R` `Statistical Modeling` `PCA` `Clustering` `Machine Learning`
+
+End-to-end statistical analysis of ODI cricketers' performance across men's and women's cricket from 2019 to 2023.
+
+**Key Components**
+- Principal Component Analysis (PCA) for player performance ranking.
+- Hierarchical and K-means clustering for identifying player performance groups.
+- Support Vector Machine (SVM), Random Forest, Logistic Regression and KNN for player role classification.
+- Neural Networks and Naive Bayes classification.
+- Match outcome prediction and ROC-AUC evaluation.
+- MANOVA and ANOVA for comparing player performance across countries and continents.
+- Toss and match-result association analysis.
+
+**Technology:** R, ggplot2, Statistical Modelling, Machine Learning.
+
 ### 🏦 Term Deposit Subscription Prediction
 
 `Python` `Machine Learning` `Classification`
@@ -168,6 +186,7 @@ Statistical analysis of IPL cricket player characteristics and performance data 
 **Statistics & Analysis**
 
 - Hypothesis Testing
+- ANOVA & MANOVA
 - Linear Regression
 - Logistic Regression
 - GLM / GAM
@@ -179,7 +198,7 @@ Statistical analysis of IPL cricket player characteristics and performance data 
 </td>
 <td width="33%" valign="top">
 
-**Time Series & ML**
+**Time Series, AI & ML**
 
 - ARIMA / SARIMA
 - ARIMAX / SARIMAX
